@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.salechaty.com)",
+      "Bash(mkdir -p /Users/zcg/Downloads/code/salechaty/assets/images)",
+      "Bash(curl -sO \"https://www.salechaty.com/_nuxt/image-1.B4AxvIev.jpg\")",
+      "Bash(curl -sO \"https://www.salechaty.com/_nuxt/image-2.sa1MBksW.png\")",
+      "Bash(curl -sO \"https://www.salechaty.com/_nuxt/image-3.CoBtlqwh.png\")",
+      "Bash(curl -sO \"https://www.salechaty.com/_nuxt/image-4.Ce87KunO.png\")"
+    ]
+  }
+}
